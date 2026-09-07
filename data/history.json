@@ -1,0 +1,204 @@
+[
+  {
+    "id": "1787558422594-4lgh0xoj",
+    "timestamp": "2026-08-24T08:00:22.594Z",
+    "crop": "Cotton (Gossypium)",
+    "region": "",
+    "plant": "Cotton (Gossypium)",
+    "condition": "Harvested Cotton Bolls (Appears Healthy)",
+    "confidence": "85–95% (AI estimate based on visual characteristics)",
+    "health_status": "Healthy",
+    "what_happened": "The image displays mature, fully opened cotton bolls containing clean, white fiber (lint). The bolls appear well-developed and healthy with dry, brown outer bracts, showing no obvious signs of insect feeding damage, staining, or boll rot.",
+    "possible_causes": [
+      "Normal, complete maturation and opening of cotton bolls",
+      "Clean post-harvest presentation"
+    ],
+    "symptoms": [
+      "Fluffy, bright white fiber locks",
+      "Dry, brown natural bracts and stems",
+      "No visible pest entry holes or fungal staining"
+    ],
+    "treatment": [
+      "Keep harvested cotton dry and well-ventilated to prevent moisture buildup and fiber discoloration",
+      "Store in clean, dry facilities to maintain fiber quality prior to ginning",
+      "Consult a local agricultural expert or extension office for best regional post-harvest storage standards"
+    ],
+    "fertilizer_guidance": [
+      "Follow soil test recommendations for balanced Nitrogen, Phosphorus, and Potassium during the crop cycle",
+      "Avoid late-season excessive Nitrogen application which can delay boll opening and reduce quality",
+      "Consult local agricultural guidelines for crop-stage specific fertilizer recommendations"
+    ],
+    "irrigation_guidance": [
+      "Reduce or terminate irrigation during natural boll opening to facilitate dry-down",
+      "Protect harvested bolls from rain or excessive humidity during handling and storage"
+    ],
+    "prevention": [
+      "Adopt Integrated Pest Management (IPM) practices during the growing season to prevent bollworm and bug damage",
+      "Ensure timely harvest once bolls are fully open to reduce exposure to weather elements"
+    ],
+    "monitoring": "Monitor stored cotton bolls weekly for any signs of moisture uptake, mold development, or storage pest activity until processing.",
+    "language": "English"
+  },
+  {
+    "id": "1787558389536-c31mqn31",
+    "timestamp": "2026-08-24T07:59:49.536Z",
+    "crop": "Unable to determine from this image",
+    "region": "",
+    "plant": "Unable to determine from this image",
+    "condition": "Unable to determine",
+    "confidence": "0–10% (AI estimate note: Image does not contain a plant or crop)",
+    "health_status": "Unable to Determine",
+    "what_happened": "The uploaded image does not appear to show a plant, crop, or leaf sample. To receive an accurate agricultural analysis, please upload a clear, well-lit photograph showing the leaves, stem, fruit, or overall plant in question.",
+    "possible_causes": [
+      "Non-agricultural image submitted"
+    ],
+    "symptoms": [
+      "No plant or crop symptoms visible in the photo"
+    ],
+    "treatment": [
+      "Please take and upload a clear picture of the plant needing diagnosis.",
+      "Consult a local agricultural expert or extension office for direct crop evaluation."
+    ],
+    "fertilizer_guidance": [
+      "Follow soil test recommendations and local agricultural extension guidelines for fertilizer selection."
+    ],
+    "irrigation_guidance": [
+      "Ensure watering schedules align with the specific crop type and local weather conditions."
+    ],
+    "prevention": [
+      "Practice routine field scouting to detect crop issues at an early stage."
+    ],
+    "monitoring": "Please provide a clear image of your crop to determine an appropriate observation schedule.",
+    "language": "English"
+  },
+  {
+    "id": "1787558121713-dfnmb69m",
+    "timestamp": "2026-08-24T07:55:21.713Z",
+    "crop": "Tomato (Solanum lycopersicum)",
+    "region": "",
+    "plant": "Tomato (Solanum lycopersicum)",
+    "condition": "Early Blight (Alternaria solani)",
+    "confidence": "75–85% (AI estimate; verify with local field tests)",
+    "health_status": "Moderate Concern",
+    "what_happened": "The leaf shows a dark brown lesion with distinct concentric rings, often called a 'target spot' or 'bullseye' pattern, surrounded by yellowing. This is a classic symptom of Early Blight, a widespread fungal disease affecting tomato and potato crops. If left unmanaged, it can spread to other leaves, stems, and fruit, leading to defoliation and reduced yield.",
+    "possible_causes": [
+      "Fungal infection caused by Alternaria solani",
+      "High relative humidity combined with warm temperatures",
+      "Extended periods of leaf wetness from rain, dew, or overhead watering",
+      "Fungal spores splashing up from infected soil onto lower leaves"
+    ],
+    "symptoms": [
+      "Dark brown or black spot with concentric target-like rings",
+      "Yellow chlorotic halo surrounding the spot",
+      "Leaf edge necrosis and minor physical tissue damage"
+    ],
+    "treatment": [
+      "Prune and safely discard heavily affected lower leaves to reduce spore load (do not compost infected tissue)",
+      "Apply suitable organic or chemical fungicides (e.g., copper-based formulations or recommended protectants) according to local regulations",
+      "Ensure tools are sanitized between plants to avoid spreading spores",
+      "Consult a local agricultural expert or extension office for exact fungicide selection and application doses"
+    ],
+    "fertilizer_guidance": [
+      "Maintain balanced plant nutrition; avoid excessive nitrogen which causes overly dense, susceptible foliage",
+      "Ensure adequate potassium levels to help build plant resistance to fungal stress",
+      "Consult local agricultural guidelines or soil test results for exact fertilizer quantities"
+    ],
+    "irrigation_guidance": [
+      "Switch to drip irrigation or ground-level watering to keep foliage as dry as possible",
+      "Water early in the morning so leaf surfaces dry rapidly in sunlight"
+    ],
+    "prevention": [
+      "Practice crop rotation with non-solanaceous crops (avoid tomatoes, potatoes, eggplants in the same plot for 2–3 years)",
+      "Apply mulch around the base of plants to create a barrier against soil-splashed spores",
+      "Provide proper plant spacing and staking to enhance airflow and sunlight penetration"
+    ],
+    "monitoring": "Examine the crop 2–3 times a week, focusing on lower leaves, to check if existing spots expand or if new target-like spots appear on adjacent foliage.",
+    "language": "English"
+  },
+  {
+    "id": "1787558049686-9riin5iz",
+    "timestamp": "2026-08-24T07:54:09.686Z",
+    "crop": "Strawberry",
+    "region": "",
+    "plant": "Strawberry",
+    "condition": "Strawberry Leaf Scorch (Diplocarpon earlianum) / Leaf Spot",
+    "confidence": "75–85% (AI estimate based on visual symptoms)",
+    "health_status": "Moderate Concern",
+    "what_happened": "The strawberry leaflets display multiple dark purple-to-red spots and larger coalescing reddish blotches along the margins. This appearance is characteristic of fungal foliage diseases such as leaf scorch or leaf spot, which spread rapidly under wet, humid conditions and can weaken the plant.",
+    "possible_causes": [
+      "Fungal infection caused by Diplocarpon earlianum (Leaf Scorch)",
+      "Fungal infection caused by Mycosphaerella fragariae (Common Leaf Spot)",
+      "Prolonged leaf wetness and high humidity"
+    ],
+    "symptoms": [
+      "Irregular dark purplish or reddish spots on upper leaf surface",
+      "Large reddish-purple patches coalescing near leaf margins",
+      "Slight leaf margin browning and drying"
+    ],
+    "treatment": [
+      "Prune and safely discard heavily spotted leaves to lower fungal spore counts",
+      "Apply appropriate copper-based or preventative fungicides if disease continues to spread",
+      "Consult a local agricultural expert for exact dosage and chemical selection"
+    ],
+    "fertilizer_guidance": [
+      "Avoid excessive nitrogen fertilizer, which produces overly dense foliage susceptible to fungal attacks",
+      "Ensure balanced potassium nutrition to strengthen foliage against stress",
+      "Consult local agricultural guidelines for exact quantities"
+    ],
+    "irrigation_guidance": [
+      "Switch to drip or micro-sprinkler irrigation to avoid wetting the leaves",
+      "If overhead watering is necessary, water early in the morning so foliage dries quickly in daylight"
+    ],
+    "prevention": [
+      "Select disease-resistant strawberry cultivars when planting new beds",
+      "Space plants properly to promote sunlight penetration and air circulation",
+      "Clean up plant debris and old foliage thoroughly after harvest"
+    ],
+    "monitoring": "Inspect newly emerging foliage twice a week over the next 14 to 21 days to ensure new leaves remain green and spot-free.",
+    "language": "English"
+  },
+  {
+    "id": "1787558045772-pbz7w85h",
+    "timestamp": "2026-08-24T07:54:05.772Z",
+    "crop": "Strawberry (Fragaria × ananassa)",
+    "region": "",
+    "plant": "Strawberry (Fragaria × ananassa)",
+    "condition": "Strawberry Leaf Scorch (Diplocarpon earlianum)",
+    "confidence": "80–85% (AI estimate only)",
+    "health_status": "Moderate Concern",
+    "what_happened": "The strawberry leaf exhibits classic signs of leaf scorch, a common fungal disease. Small purplish-red spots have spread and coalesced into larger patches, giving parts of the leaf a dark, scorched or burned appearance. Left untreated, severe defoliation can occur, weakening the plant and lowering fruit yield.",
+    "possible_causes": [
+      "Fungal pathogen (Diplocarpon earlianum)",
+      "Prolonged leaf wetness from rain or overhead sprinkler irrigation",
+      "High relative humidity and warm temperature conditions",
+      "Poor air circulation around foliage due to dense planting"
+    ],
+    "symptoms": [
+      "Irregular dark purple to reddish spots on upper leaf surfaces",
+      "Merging spots forming larger brown/purplish scorched blotches",
+      "Drying and curling of leaf margins"
+    ],
+    "treatment": [
+      "Prune and destroy severely affected leaves to minimize fungal spore dispersal",
+      "Apply suitable protective fungicides labeled for strawberry leaf diseases if disease pressure is high",
+      "Ensure foliage stays as dry as possible during routine management",
+      "Consult a local agricultural expert for exact dosage and chemical selection"
+    ],
+    "fertilizer_guidance": [
+      "Avoid excessive nitrogen fertilization, which produces dense foliage prone to fungal attack",
+      "Maintain balanced potassium and micronutrient levels to improve overall plant tolerance",
+      "Consult local agricultural guidelines for exact quantities"
+    ],
+    "irrigation_guidance": [
+      "Use drip or micro-sprinkler irrigation at the base of the plant instead of overhead watering",
+      "Irrigate during early morning hours so leaves dry rapidly in daylight"
+    ],
+    "prevention": [
+      "Plant resistant strawberry varieties suitable for your climate",
+      "Maintain adequate plant spacing to facilitate airflow and rapid drying of leaves",
+      "Perform clean post-harvest field sanitation by clearing old leaves and plant debris"
+    ],
+    "monitoring": "Observe new and lower leaves every 5–7 days for new purplish spots, particularly after wet or humid weather periods.",
+    "language": "English"
+  }
+]
